@@ -39,7 +39,7 @@ const Navbar = () => {
         <nav className={`navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light ${scrolled ? 'scrolled awake' : ''}`} id="ftco-navbar">
             <div className="container">
                 <Link className="navbar-brand" to="/">
-                    <img src="/images/logo.png" alt="Mukvidyavita Logo" style={{ height: "50px", marginRight: "10px" }} />
+                    <img src="/logo.png" alt="Mukvidyavita Logo" style={{ height: "50px", marginRight: "10px" }} />
                     Mukvidyavita
                 </Link>
                 <button
