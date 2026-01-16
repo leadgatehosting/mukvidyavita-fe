@@ -13,7 +13,7 @@ const OurTeachers = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-lg-4 d-flex mb-sm-4 ftco-animate">
+                    <div className="col-lg-3 d-flex mb-sm-4 ftco-animate">
                         <div className="staff">
                             <div className="d-flex mb-4">
                                 <div className="img" style={{ backgroundImage: "url('images/indian_teacher_1.png')" }}></div>
@@ -27,7 +27,7 @@ const OurTeachers = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 d-flex mb-sm-4 ftco-animate">
+                    <div className="col-lg-3 d-flex mb-sm-4 ftco-animate">
                         <div className="staff">
                             <div className="d-flex mb-4">
                                 <div className="img" style={{ backgroundImage: "url('images/indian_teacher_2.png')" }}></div>
@@ -41,7 +41,7 @@ const OurTeachers = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 d-flex mb-sm-4 ftco-animate">
+                    <div className="col-lg-3 d-flex mb-sm-4 ftco-animate">
                         <div className="staff">
                             <div className="d-flex mb-4">
                                 <div className="img" style={{ backgroundImage: "url('images/indian_teacher_3.png')" }}></div>
@@ -50,6 +50,20 @@ const OurTeachers = () => {
                                     <span className="position">{t('teacher_3_role')}</span>
                                     <div className="text">
                                         <p>{t('teacher_3_desc')}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-3 d-flex mb-sm-4 ftco-animate">
+                        <div className="staff">
+                            <div className="d-flex mb-4">
+                                <div className="img" style={{ backgroundImage: "url('images/bg_1.jpg')" }}></div>
+                                <div className="info ml-4">
+                                    <h3><a href="#">{t('teacher_4_name')}</a></h3>
+                                    <span className="position">{t('teacher_4_role')}</span>
+                                    <div className="text">
+                                        <p>{t('teacher_4_desc')}</p>
                                     </div>
                                 </div>
                             </div>
