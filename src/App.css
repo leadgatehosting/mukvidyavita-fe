@@ -1,1 +1,53 @@
-/* CSS Reset or Empty */
+.staff {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    height: 100%; /* Ensure it takes full height of its parent */
+    text-align: center; /* Ensure text is centered within the staff div */
+    background-color: #ffffff; /* White background for the card */
+    border: 1px solid #e0e0e0; /* Subtle border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* Soft shadow */
+    padding: 30px 20px; /* Adjusted padding */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    font-family: 'Lora', serif; /* Default font for the card, now Lora */
+}
+
+.staff:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Enhanced shadow on hover */
+    transform: translateY(-5px); /* Lift effect on hover */
+}
+
+.staff h3 {
+    font-family: 'Libre Bodoni', serif; /* Premium font for names */
+    font-size: 2.2rem; /* Slightly larger for emphasis */
+    margin-bottom: 0.75rem;
+    color: #222;
+    font-weight: 700; /* Make name bolder */
+    line-height: 1.2;
+}
+
+.staff .position {
+    font-family: 'Lora', serif; /* Consistent with body text */
+    font-size: 1.05rem;
+    color: #6c757d; /* A more subtle grey for the role */
+    margin-bottom: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px; /* Slightly increased letter spacing for elegance */
+}
+
+.staff .text p {
+    font-family: 'Lora', serif; /* Standard font for descriptions */
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: #495057;
+}
+
+/* Ensure direct children of staff also take full width for centering */
+.staff h3,
+.staff .position,
+.staff .text {
+    width: 100%;
+    text-align: center;
+}
