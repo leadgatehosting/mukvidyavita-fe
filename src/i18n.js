@@ -6,11 +6,14 @@ const resources = {
         translation: {
             "hero_title": "Empowering Specially Abled Children with Education and Love",
             "served_label": "Educating Over",
-            "served_count": "150",
+            "served_count": "300",
             "served_sub": "Students in our School for Specially Abled",
             "volunteer_title": "Become a Teacher/Mentor",
             "volunteer_desc": "Join us in shaping the future of these children.",
             "volunteer_btn": "Join Us",
+            "donation_cta_title": "Support a Child’s Future Today",
+            "donation_cta_sub": "Your donation helps us provide education, food, and a safe environment for underprivileged children.",
+            "donation_cta_btn": "👉 Donate to Support",
             "service_edu_title": "Quality Education",
             "service_edu_desc": "Providing standard education to ensure a bright future for every child.",
             "service_care_title": "Holistic Care",
@@ -28,8 +31,8 @@ const resources = {
             "nav_contact": "Contact",
             "lang_switch": "मराठी",
             "activities_title": "Our School Recent Activities",
-            "act_1_title": "Annual Sports Day",
-            "act_1_desc": "Students participated in various sports activities showcasing their talents.",
+            "act_1_title": "Student Business Fair",
+            "act_1_desc": "Students running small businesses during the festival session.",
             "act_2_title": "Science Exhibition",
             "act_2_desc": "Creative models and projects displayed by our budding scientists.",
             "act_3_title": "Cultural Festival",
@@ -217,8 +220,8 @@ const resources = {
     mr: {
         translation: {
             "hero_title": "दिव्यांग मुलांना शिक्षण आणि प्रेमाद्वारे सक्षम करणे",
-            "served_label": "१५० हून अधिक",
-            "served_count": "१५०",
+            "served_label": "३०० हून अधिक",
+            "served_count": "३००",
             "served_sub": "विद्यार्थी आमच्या विशेष शाळेत शिक्षण घेत आहेत",
             "volunteer_title": "शिक्षक/मार्गदर्शक बना",
             "volunteer_desc": "या मुलांचे भविष्य घडवण्यासाठी आमच्यात सामील व्हा.",
@@ -326,7 +329,10 @@ const resources = {
             "about_impact_self_reliance_text": "सर्व विद्यार्थी कोणताही व्यवसाय किंवा नोकरी करून स्वतःच्या पायावर उभे आहेत आणि स्वतःचा संसार चांगल्या रीतीने करीत आहेत.",
             "about_facilities_text": "निवासी ४० विद्यार्थी मान्यताप्राप्त शाळा असून निवासी असलेल्या सर्व सोयी सुविधा मोफत पुरवल्या जातात. ६ ते १८ वयोगटातील विद्यार्थ्यांना मोफत सुविधा मिळतात. पायरी १ ते ४ व इयत्ता १ ली ते ५ वी पर्यंतचे शिक्षण दिले जाते.",
             "about_staff_title": "स्टाफ",
-            "about_staff_text": "सर्व उच्चशिक्षित शिक्षक स्टाफ आणि मुलांची प्रेमळ व काळजी घेणारा शिक्षकेतर स्टाफ. ५ शिक्षक व इतर १० स्टाफ."
+            "about_staff_text": "सर्व उच्चशिक्षित शिक्षक स्टाफ आणि मुलांची प्रेमळ व काळजी घेणारा शिक्षकेतर स्टाफ. ५ शिक्षक व इतर १० स्टाफ.",
+            "donation_cta_title": "आजच एका मुलाच्या भविष्याला आधार द्या",
+            "donation_cta_sub": "तुमची देणगी आम्हाला वंचित मुलांसाठी शिक्षण, अन्न आणि सुरक्षित वातावरण प्रदान करण्यास मदत करते.",
+            "donation_cta_btn": "👉 मदतीसाठी दान करा"
         }
     }
 };

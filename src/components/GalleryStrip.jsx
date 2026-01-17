@@ -4,30 +4,30 @@ const GalleryStrip = () => {
     return (
         <section className="ftco-gallery">
             <div className="d-md-flex">
-                <a href="images/cause-2.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/cause-2.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.17 AM.jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.17 AM.jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
-                <a href="images/cause-3.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/cause-3.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.18 AM (1).jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.18 AM (1).jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
-                <a href="images/cause-4.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/cause-4.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.19 AM.jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.19 AM.jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
-                <a href="images/cause-5.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/cause-5.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.18 AM.jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.18 AM.jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
             </div>
             <div className="d-md-flex">
-                <a href="images/cause-6.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/cause-6.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.22 AM (1).jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.22 AM (1).jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
-                <a href="images/image_3.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/image_3.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.23 AM.jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.23 AM.jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
-                <a href="images/image_1.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/image_1.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.24 AM.jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.24 AM.jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
-                <a href="images/image_2.jpg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('images/image_2.jpg')" }}>
+                <a href="assests/WhatsApp Image 2026-01-06 at 11.30.25 AM.jpeg" className="gallery image-popup d-flex justify-content-center align-items-center img ftco-animate" style={{ backgroundImage: "url('assests/WhatsApp Image 2026-01-06 at 11.30.25 AM.jpeg')" }}>
                     <div className="icon d-flex justify-content-center align-items-center"><span className="icon-search"></span></div>
                 </a>
             </div>

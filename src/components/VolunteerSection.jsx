@@ -11,7 +11,7 @@ const VolunteerSection = () => {
                         <div className="block-18 color-1 align-items-stretch">
                             <div className="text">
                                 <span>{t('served_label')}</span>
-                                <strong className="number" data-number="150">{t('served_count')}</strong>
+                                <strong className="number" data-number="300">{t('served_count')}</strong>
                                 <span>{t('served_sub')}</span>
                             </div>
                         </div>
@@ -19,9 +19,9 @@ const VolunteerSection = () => {
                     <div className="col-md d-flex justify-content-center counter-wrap ftco-animate">
                         <div className="block-18 color-3 align-items-stretch">
                             <div className="text">
-                                <h3 className="mb-4">{t('volunteer_title')}</h3>
-                                <p>{t('volunteer_desc')}</p>
-                                <p><a href="#" className="btn btn-white px-3 py-2 mt-2">{t('volunteer_btn')}</a></p>
+                                <h3 className="mb-4">{t('donation_cta_title')}</h3>
+                                <p>{t('donation_cta_sub')}</p>
+                                <p><a href="https://docs.google.com/forms/" target="_blank" rel="noopener noreferrer" className="btn btn-white px-3 py-2 mt-2">{t('donation_cta_btn')}</a></p>
                             </div>
                         </div>
                     </div>
