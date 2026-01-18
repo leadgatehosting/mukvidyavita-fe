@@ -28,7 +28,13 @@ const Contact = () => {
                             <p><span>Address:</span> Sangli, Maharashtra, India</p>
                         </div>
                         <div className="col-md-3">
-                            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+                            <p>
+                                <span>Phone:</span>
+                                <br />
+                                <a href="tel://9421122663">9421122663 (HM)</a>
+                                <br />
+                                <a href="tel://9975678026">9975678026</a>
+                            </p>
                         </div>
                         <div className="col-md-3">
                             <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
@@ -60,7 +66,7 @@ const Contact = () => {
                         </div>
                         <div className="col-md-6">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122283.6857640209!2d74.51006935759247!3d16.85438883733355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1229c97b5e67f%3A0x861c28c823fa1f22!2sSangli%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1709800000000!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3810.408701220726!2d74.5330084!3d17.2474511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc169325fe4cc95%3A0xae4ab1aeb720a3e6!2sLoknete%20hanmant%20rao+patil%20nivasi%20mukbadhir%20vidyalay%20vita!5e0!3m2!1sen!2sin!4v1768718148962!5m2!1sen!2sin"
                                 width="100%"
                                 height="450"
                                 style={{ border: 0 }}

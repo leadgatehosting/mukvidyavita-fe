@@ -25,7 +25,7 @@ const Footer = () => {
                             <h2 className="ftco-heading-2">{t('footer_location_title')}</h2>
                             <div className="block-21 mb-4 d-flex">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122283.6857640209!2d74.51006935759247!3d16.85438883733355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1229c97b5e67f%3A0x861c28c823fa1f22!2sSangli%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1709800000000!5m2!1sen!2sin"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3810.408701220726!2d74.5330084!3d17.2474511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc169325fe4cc95%3A0xae4ab1aeb720a3e6!2sLoknete%20hanmant%20rao+patil%20nivasi%20mukbadhir%20vidyalay%20vita!5e0!3m2!1sen!2sin!4v1768718148962!5m2!1sen!2sin"
                                     width="100%"
                                     height="200"
                                     style={{ border: 0 }}
@@ -54,7 +54,8 @@ const Footer = () => {
                             <div className="block-23 mb-3">
                                 <ul>
                                     <li><span className="icon icon-map-marker"></span><span className="text">{t('footer_address')}</span></li>
-                                    <li><a href="#"><span className="icon icon-phone"></span><span className="text">+2 392 3929 210</span></a></li>
+                                    <li><a href="tel://9421122663"><span className="icon icon-phone"></span><span className="text">9421122663 (Santosh Kalokhe)</span></a></li>
+                                    <li><a href="tel://9975678026"><span className="icon icon-phone"></span><span className="text">9975678026 (Shilpa Gujar)</span></a></li>
                                     <li><a href="#"><span className="icon icon-envelope"></span><span className="text">info@yourdomain.com</span></a></li>
                                 </ul>
                             </div>
