@@ -14,9 +14,7 @@ const Hero = () => {
                         </h1>
                         <p className="mb-5" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Created by <a href="#">LeadGate</a></p>
 
-                        <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="https://vimeo.com/45830194"
-                            className="btn btn-white btn-outline-white px-4 py-3 popup-vimeo"><span className="icon-play mr-2"></span>Watch
-                            Video</a></p>
+
                     </div>
                 </div>
             </div>
